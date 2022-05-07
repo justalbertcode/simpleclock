@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
 }
 
 body{
@@ -46,8 +45,6 @@ body{
 .right{
   right: 5px;
 }
-
-
 
 .clock:before{
   content: '';
